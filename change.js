@@ -1,4 +1,4 @@
 console.log ("samplechanges");
 console.log ("samplechanges");
 
-console.log ("tryng t  push failure");
+console.log ("tryng to re-push changes");
